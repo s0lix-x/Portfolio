@@ -26,8 +26,3 @@ function erase() {
 }
 
 type();
-
-window.addEventListener("load", () => {
-  const form = document.querySelector("form");
-  if (form) form.reset();
-});

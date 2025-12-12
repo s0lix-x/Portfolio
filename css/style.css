@@ -534,7 +534,7 @@ footer {
   height: 55%;
   object-fit: contain;
   border-top-left-radius: 25px;
-  border-top-right-radius: 25px;
+  border-top-right-radius: 25px;  
   transition: all 0.4s ease;
 }
 
@@ -684,9 +684,7 @@ footer {
 }
 
 .text-group a {
-  text-decoration: underline;
   text-decoration-color: #dddddd;
-  text-underline-offset: 4px;
 }
 
 .follow-me h3 {
